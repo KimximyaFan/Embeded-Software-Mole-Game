@@ -80,6 +80,7 @@ Led_Off() <br>​
 
 ![image](https://github.com/user-attachments/assets/d3b86ee5-d40e-45ab-bf4d-c26722e78be5)
 ​
+
 두더지 등장 횟수 20회를 충족하면 루프가 끝나게 되며, <br>
 게임 종료를 알리는 부저가 울리고, 후처리를 한 후 프로그램이 종료된다. <br>
 
