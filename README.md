@@ -50,6 +50,7 @@
 
 <br>
 
+
 ![image](https://github.com/user-attachments/assets/45a04582-eb4b-4485-9668-509bb9f66f53)
 
 ![image](https://github.com/user-attachments/assets/32144060-6622-4c1d-be5b-155678261d23)
@@ -62,12 +63,25 @@
 
 ![image](https://github.com/user-attachments/assets/71c6ce9b-2d6c-4bce-abd2-c82725dfd133)
 
+![image](https://github.com/user-attachments/assets/29e4eeb9-68f1-4374-9e97-279bacde7a94)
+
+위 그림과 같이 구현 <br>
+
 ![image](https://github.com/user-attachments/assets/3aa60669-868a-481a-b32b-0a65fe4bc899)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/282ca9d5-dbca-4c93-8f6d-72d5cc5bca94)
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/fb0e21c4-b37b-4617-8947-2e107f135bd1)
 
+<br>
+
 ![image](https://github.com/user-attachments/assets/ab42cfd9-467c-41ef-ae58-af520c5e540e)
 
+소리 관련 최종 구현
 
 ### M4 FND 제어
 
