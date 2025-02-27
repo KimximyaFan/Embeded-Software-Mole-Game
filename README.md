@@ -28,11 +28,46 @@
 
 ## 활용한 기능
 
+<br>
+
 ![image](https://github.com/user-attachments/assets/0c053ea1-c36e-44a5-80f0-f4b433fa1572)
 
 <br><br><br>
 
 ### Q6 부저제어
+
+<br>
+
+![image](https://github.com/user-attachments/assets/696d5210-28b9-4b97-afcc-c602effb89c8)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5d886d5c-a4d4-4796-bbdb-e590d78f8430)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5ae0a638-5328-4796-9927-e3cbe9a76c64)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/45a04582-eb4b-4485-9668-509bb9f66f53)
+
+![image](https://github.com/user-attachments/assets/32144060-6622-4c1d-be5b-155678261d23)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b9d6bf93-3af2-4bc0-a498-130909e01865)
+
+![image](https://github.com/user-attachments/assets/e1ea96c5-e5a7-4c5a-878c-711c25d3dde6)
+
+![image](https://github.com/user-attachments/assets/71c6ce9b-2d6c-4bce-abd2-c82725dfd133)
+
+![image](https://github.com/user-attachments/assets/3aa60669-868a-481a-b32b-0a65fe4bc899)
+
+![image](https://github.com/user-attachments/assets/fb0e21c4-b37b-4617-8947-2e107f135bd1)
+
+![image](https://github.com/user-attachments/assets/ab42cfd9-467c-41ef-ae58-af520c5e540e)
+
 
 ### M4 FND 제어
 
