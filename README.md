@@ -9,7 +9,9 @@
 
 ## 하드웨어
 
-H-EMbed-TKU 보드의 Q6 모듈과 M4 모듈
+<br>
+
+### H-EMbed-TKU 보드의 Q6 모듈과 M4 모듈
 
 ![image](https://github.com/user-attachments/assets/1c5ed467-47ac-4b25-b6e9-9dc3f5de7ea7)
 
