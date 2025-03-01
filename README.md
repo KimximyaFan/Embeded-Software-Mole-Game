@@ -113,7 +113,8 @@ msg1 : fnd의 세번 째 자릿 수 조작 <br>
 msg2 : fnd의 두번 째 자릿 수 조작 <br>
 msg3 : fnd의 첫번 째 자릿 수 조작 <br>
 <br>
-그 후, serial_fd 에 write해서 Q6에서 M4로 통신 <br>
+그 후, serial_fd 에 write해서 Q6에서 M4로 통신 후 <br>
+갱신된 점수 값을 디스플레이 한다 <br>
 
 <br>
 <br>
