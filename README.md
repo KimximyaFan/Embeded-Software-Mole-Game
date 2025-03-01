@@ -155,6 +155,25 @@ led는 총 5개 있으므로 0~4 인덱스 값을 받아서 on off 할 수 있�
 
 <br>
 
+![image](https://github.com/user-attachments/assets/236acea3-66c5-40eb-b03c-a9fa4507fbf7)
+
+구현은 위 그림과 같다 <br>
+
+![image](https://github.com/user-attachments/assets/d6f7c9fe-9168-4405-997d-925433823e09)
+
+![image](https://github.com/user-attachments/assets/4e4e315c-4cd0-440f-a265-60842a887498)
+
+buf의 2번 인덱스값은 VAR1를 나타낸다 <br>
+해당 값을 읽어와서 0x30을 빼면 인덱스를 알 수 있다 <br>
+그리고 read 부분은 프로그램이 진행되지 않고 걸려있는 형태기 때문에, 쓰레딩으로 구현할 필요가 있다 <br>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/554a12fb-a86b-42d3-8697-0cc6978dc837)
+
+pthread로 button 모니터링을 하며, <br>
+is_thread_end와 button_index 값이 갱신되는 걸로 정보를 판별 할 수 있다 <br>
+
 <br><br><br>
 
 ## 프로그램 플로우차트
