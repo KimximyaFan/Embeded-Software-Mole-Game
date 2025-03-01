@@ -27,6 +27,10 @@
 <br><br><br>
 
 ## 활용한 기능
+<br>
+
+![image](https://github.com/user-attachments/assets/eb26084e-fd25-408e-b1ae-8d54b5b199d1)
+
 
 <br>
 
@@ -85,9 +89,71 @@
 
 ### M4 FND 제어
 
+<br>
+
+![image](https://github.com/user-attachments/assets/c5d7c25d-86d8-45b1-b13b-4f83f1611f99)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/ce59a6b6-98b2-461d-947d-f60f2b00a302)
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/1f6497d9-16df-487e-80eb-92f688113c6c)
+
+<br>
+
+구현은 위 그림과 같다 <br>
+msg1 : fnd의 세번 째 자릿 수 조작 <br>
+msg2 : fnd의 두번 째 자릿 수 조작 <br>
+msg3 : fnd의 첫번 째 자릿 수 조작 <br>
+<br>
+그 후, serial_fd 에 write해서 Q6에서 M4로 통신 <br>
+
+<br>
+<br>
+<br>
+
 ### M4 LED 제어
 
+<br>
+
+![image](https://github.com/user-attachments/assets/a8ac2875-a884-4344-9a6f-2bd1d35ac7dd)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b5382bf8-c59b-4f78-820a-8b0019042b8f)
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/44e77780-1e35-4eeb-8c0c-6a7678182114)
+
+<br>
+
+구현은 위 그림과 같다 <br>
+
+led를 키려면 3번째 인자에 atoi 값을 1로 <br>
+led를 끄려면 0으로 하는게 특징이고, <br>
+직관적으로 사용하기 위해서, led on, led off 로 함수를 나눴다 <br>
+led는 총 5개 있으므로 0~4 인덱스 값을 받아서 on off 할 수 있게 함수를 만들었다 <br>
+
+<br>
+<br>
+<br>
+
 ### M4 Button 모니터링
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b4ae540f-3473-49c5-a1b3-fe40cc9b7e9b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/dc833aa0-6e67-49a3-927d-33bfc69b61d2)
+
+<br>
 
 <br><br><br>
 
