@@ -86,6 +86,10 @@
 ![image](https://github.com/user-attachments/assets/ab42cfd9-467c-41ef-ae58-af520c5e540e)
 
 소리 관련 최종 구현
+<br>
+<br>
+<br>
+<br>
 
 ### M4 FND 제어
 
@@ -114,6 +118,7 @@ msg3 : fnd의 첫번 째 자릿 수 조작 <br>
 <br>
 <br>
 <br>
+<br>
 
 ### M4 LED 제어
 
@@ -139,6 +144,7 @@ led를 끄려면 0으로 하는게 특징이고, <br>
 직관적으로 사용하기 위해서, led on, led off 로 함수를 나눴다 <br>
 led는 총 5개 있으므로 0~4 인덱스 값을 받아서 on off 할 수 있게 함수를 만들었다 <br>
 
+<br>
 <br>
 <br>
 <br>
@@ -174,7 +180,7 @@ buf의 2번 인덱스값은 VAR1를 나타낸다 <br>
 pthread로 button 모니터링을 하며, <br>
 is_thread_end와 button_index 값이 갱신되는 걸로 정보를 판별 할 수 있다 <br>
 
-<br><br><br>
+<br><br><br><br>
 
 ## 프로그램 플로우차트
 
