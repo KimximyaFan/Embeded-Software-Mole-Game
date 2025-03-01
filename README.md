@@ -42,7 +42,7 @@
 
 <br>
 
-![image](https://github.com/user-attachments/assets/696d5210-28b9-4b97-afcc-c602effb89c8)
+![image](https://github.com/user-attachments/assets/1af5f4ed-7691-46f0-8b8e-f66fa5708928)
 
 <br>
 
